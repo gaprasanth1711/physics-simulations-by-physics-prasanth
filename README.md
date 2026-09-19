@@ -4,7 +4,7 @@ nteractive web-based physics simulations with an integrated Gemini AI tutor. Bui
 
 An interactive, web-based physics laboratory featuring real-time canvas simulations and a Gemini AI-powered tutor. Designed to help CBSE Class 11 & 12 students and NEET/JEE aspirants visualize abstract concepts, experiment with parameters, and master core physics principles.
 
-🔗 **Live Simulation:** [View Live Web App](https://<your-username>.github.io/<your-repo-name>/)  
+🔗 **Live Simulation:** [View Live Web App](https://<your-username>.github.io/<your-repo-name>/)  index.html.html
 🌐 **Main Study Portal:** [Physics Prasanth](https://physicsprasanth.wordpress.com/)
 
 ---
